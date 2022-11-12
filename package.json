@@ -1,0 +1,30 @@
+{
+  "name": "tree-sitter-nasm",
+  "version": "1.0.0",
+  "description": "Tree-sitter grammar for The Netwide Assembler",
+  "main": "bindings/node",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawadcode/tree-sitter-nasm.git"
+  },
+  "keywords": [
+    "tree-sitter",
+    "nasm",
+    "grammar"
+  ],
+  "author": "Jawad Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jawadcode/tree-sitter-nasm/issues"
+  },
+  "homepage": "https://github.com/jawadcode/tree-sitter-nasm#readme",
+  "dependencies": {
+    "nan": "^2.17.0"
+  },
+  "devDependencies": {
+    "tree-sitter-cli": "^0.20.7"
+  }
+}
