@@ -3,6 +3,6 @@ module.exports = grammar({
   
   // TODO: Actually add the rules
   rules: {
-    source_file: $ => 'hello'
+    source_file: $ => 'hello',
   }
 })
